@@ -9,8 +9,12 @@
     "web": "expo start --web"
   },
   "dependencies": {
+    "@tensorflow/tfjs": "^4.19.0",
+    "@tensorflow/tfjs-react-native": "^1.0.0",
     "expo": "~51.0.8",
+    "expo-sensors": "^13.0.7",
     "expo-status-bar": "~1.12.1",
+    "ml-savitzky-golay-generalized": "^4.2.0",
     "react": "18.2.0",
     "react-native": "0.74.1"
   },
